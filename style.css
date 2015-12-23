@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'ike-editor-font';
-    src:    url('fonts/ike-editor-font.eot?mqll11');
-    src:    url('fonts/ike-editor-font.eot?mqll11#iefix') format('embedded-opentype'),
-        url('fonts/ike-editor-font.ttf?mqll11') format('truetype'),
-        url('fonts/ike-editor-font.woff?mqll11') format('woff'),
-        url('fonts/ike-editor-font.svg?mqll11#ike-editor-font') format('svg');
+    src:    url('fonts/ike-editor-font.eot?fr2sq');
+    src:    url('fonts/ike-editor-font.eot?fr2sq#iefix') format('embedded-opentype'),
+        url('fonts/ike-editor-font.ttf?fr2sq') format('truetype'),
+        url('fonts/ike-editor-font.woff?fr2sq') format('woff'),
+        url('fonts/ike-editor-font.svg?fr2sq#ike-editor-font') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -111,11 +111,11 @@ i {
 .ike-icon-circular-image:before {
     content: "\e91c";
 }
-.ike-icon-icons:before {
-    content: "\e91d";
-}
 .ike-icon-video:before {
     content: "\e91e";
+}
+.ike-icon-icons:before {
+    content: "\e91d";
 }
 .ike-icon-cta:before {
     content: "\e91f";
