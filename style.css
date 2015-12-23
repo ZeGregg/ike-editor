@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'ike-editor-font';
-    src:    url('fonts/ike-editor-font.eot?fr2sq');
-    src:    url('fonts/ike-editor-font.eot?fr2sq#iefix') format('embedded-opentype'),
-        url('fonts/ike-editor-font.ttf?fr2sq') format('truetype'),
-        url('fonts/ike-editor-font.woff?fr2sq') format('woff'),
-        url('fonts/ike-editor-font.svg?fr2sq#ike-editor-font') format('svg');
+    src:    url('fonts/ike-editor-font.eot?m1e6ci');
+    src:    url('fonts/ike-editor-font.eot?m1e6ci#iefix') format('embedded-opentype'),
+        url('fonts/ike-editor-font.ttf?m1e6ci') format('truetype'),
+        url('fonts/ike-editor-font.woff?m1e6ci') format('woff'),
+        url('fonts/ike-editor-font.svg?m1e6ci#ike-editor-font') format('svg');
     font-weight: normal;
     font-style: normal;
 }
